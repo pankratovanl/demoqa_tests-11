@@ -29,7 +29,7 @@ public class FirstJUnitTest {
 
     @Test
     void textTest() {
-        System.out.println("        Это первый тест!");
+        System.out.println("        Это самый первый тест!");
     }
 
     @Test
